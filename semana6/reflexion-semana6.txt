@@ -1,0 +1,9 @@
+Las plataformas tecnológicas deben permitir reportes estructurados para facilitar el
+procesamiento automatizado y la priorización de incidencias. Cuando los datos llegan
+en un formato estándar, es más sencillo integrarlos con sistemas de seguimiento y
+analítica, lo que reduce tiempos de respuesta. Además, la estructura mejora la
+calidad de la información recibida, evita ambigüedades y permite generar estadísticas
+útiles para la toma de decisiones. Los reportes estructurados también facilitan la
+transparencia y la trazabilidad del proceso, permitiendo a la ciudadanía ver el
+avance de sus solicitudes. En resumen, favorecen la eficiencia operativa y la
+confianza entre la comunidad y las instituciones.
